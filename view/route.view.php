@@ -1,5 +1,5 @@
 <?php include 'controller/routeController.php';ini_set("display_errors",0); ?>
-<div class="col s7 ">
+<div class="col s11 ">
   <div class="card blue-grey darken-1">
     <div class="card-content white-text">
       <span class="card-title">Liste des Routes</span>
@@ -27,7 +27,6 @@
       </form>
       <br />
       <label><?php echo '<p>'.createController($_REQUEST['dir'],$_REQUEST['controller_name']).'</p>' ?></label>
-    </div>
-    
+    </div>    
   </div>
 </div>
