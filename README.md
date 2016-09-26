@@ -4,7 +4,7 @@ localhost only
 ### Current Version : v0.10
 
 ## Sass Requirements:
-- wamp
+- loacl server, composer
 
 ## Supported Browsers:
 Chrome 35+, Firefox 31+, Safari 7+, IE 10+
